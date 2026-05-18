@@ -1,0 +1,9 @@
+bellman.java
+boyerbad.java
+boyersearch.java
+floyd.java
+knapsack.java
+kruskal.java
+nqueen.java
+subset.java
+travel.java
