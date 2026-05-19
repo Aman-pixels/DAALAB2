@@ -7,3 +7,4 @@ kruskal.java
 nqueen.java
 subset.java
 travel.java
+subset2.java
